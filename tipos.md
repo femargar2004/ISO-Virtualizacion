@@ -10,4 +10,5 @@
 
 5. Virtualización de escritorios**: En vez de tener tu escritorio en tu computadora, lo pones en un servidor. Esto te permite acceder a tu escritorio desde cualquier dispositivo, como si estuvieras usando el mismo equipo, sin importar dónde estés.
 
-[TIPOS DE VIRTUALIZACION](https://www.hoswedaje.com/wp-content/uploads/cuales-son-los-tipos-de-virtualizacion.jpg)
+[TIPOS DE VIRTUALIZACION]
+(https://www.hoswedaje.com/wp-content/uploads/cuales-son-los-tipos-de-virtualizacion.jpg)
